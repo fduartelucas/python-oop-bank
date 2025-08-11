@@ -2,7 +2,7 @@ class Account:
     ''' Classe Account: Conta bancária de cada cliente 
         Atributos:
         - username (str) - Nome do usuário (usado no login)
-        - password (str) - Senah do usuário (usada no login)
+        - password (str) - Senha do usuário (usada no login)
         - balance (int) - Saldo em conta
     '''
     accounts = [] # Lista usada para armazenar as contas quando estas são criadas
