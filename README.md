@@ -7,5 +7,5 @@ Esse foi um projeto com fins de aprendizado, desenvolvi o código como forma de 
 
 ## Referências
 - Curso da Alura "Python: aplicando a Orientação a Objetos" (por Guilherme Lima e Laís Urano): https://cursos.alura.com.br/course/python-aplicando-orientacao-objetos
-- Me ajudou e talvez ajude mais alguém, então, queria deixar como referência do código um curso gratuito que fiz de Java há um tempo atrás (por Tiago Aguiar): https://www.youtube.com/playlist?list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL
+- Me ajudou e talvez ajude mais alguém, então, queria deixar como referência um curso gratuito que fiz de Java há um tempo atrás (por Tiago Aguiar): https://www.youtube.com/playlist?list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL
 
